@@ -1,0 +1,21 @@
+name: "R Markdown Websites Tutorial"
+navbar:
+  title: "HOME"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "People"
+      href: people.html
+    - text: "Events"
+      href: events.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Contact form"
+      href: contacts.html
+output_dir: "."
+output:
+  html_document:
+    theme: cosmo
+    highlight: kate
+#    include:
+#      after_body: _footer.html
