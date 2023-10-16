@@ -6,9 +6,10 @@ title: "People"
 ## Faculty Members
 - [Lea Petrella](https://beatricefor.github.io/quantile-website-test-pages/petrella.html)
 - [Nicola Salvati](https://beatricefor.github.io/quantile-website-test-pages/salvati.html)
+- [Luca Merlo](https://beatricefor.github.io/quantile-website-test-pages/merlo.html)
 
 ## Post-docs
-
+- [Beatrice Foroni](https://beatricefor.github.io/quantile-website-test-pages/foroni.html)
 
 ## PhD Students
 
