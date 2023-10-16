@@ -1,6 +1,5 @@
 ---
 title: "People"
-
 ---
 
 ## Faculty Members
@@ -14,3 +13,4 @@ title: "People"
 ## PhD Students
 - Maria Saiz
 - Mila Andreani
+
