@@ -1,6 +1,5 @@
 ---
-title: "Quantile website test page"
-author:  "[Beatrice Foroni](https://github.com/Bia8) at Uniroma1, 14/10/23"
+title: "Quantile Modeling Research Group"
 output:
   html_document:
     fig_width: 1
@@ -8,12 +7,34 @@ output:
 
 ------------------------------------------------------------------------
 
-***What we do:*** The focus of research at Quantitative Finance Group is the investigation by means of quantitative methodologies, both analytical and empirical, of several aspects of financial markets at different time scales. We can profit from numerous national and international collaborations with universities, research centers, banks, investment groups, IT societies and supervisory institutions. (da cambiare)
+### What we do
+
+<br> The **Quantile Modeling Research Group** is a dynamic and innovative team that brings together scholars from various universities across Italy and Europe, within the MEMOTEF Department of La Sapienza University of Rome. Our group is dedicated to advancing Quantile Regression modeling in a wide range of fields, including:
+
+-   Multivariate quantiles
+-   Machine learning
+-   Quantile graphical models
+-   Survey sampling
+-   Mixed-effects models
+-   Small area estimation
+
+The methodologies developed by our group have been successfully applied, among other areas, to:
+
+-   Time series analysis
+-   Finance
+-   Economics
+-   Climate change
+-   Poverty mapping
+
+These results have been published in several scientific journals. For a complete list see the [Publication](https://beatricefor.github.io/quantile-website-test-pages/publications.html) page .
 
 ------------------------------------------------------------------------
 
+```{=html}
 <!---From http://stackoverflow.com/questions/31753897/2-column-section-in-r-markdown:
 Put in your css file or directly in rmarkdown--->
+```
+```{=html}
 <style>
   .col2 {
     columns: 2 200px;         /* number of columns and width in pixels*/
@@ -21,22 +42,19 @@ Put in your css file or directly in rmarkdown--->
     -moz-columns: 2 200px;    /* firefox */
   }
 </style>
- 
-
-<div class="col2">
+```
+::: col2
 **News**
 
-- List of last news
-- ....
-<br>
-<br>
+-   List of last news
+-   .... <br> <br>
 
 **Events**
 
-- Calendar
-- 
-- 
-</div>
+-   Calendar
+-   
+-   
+:::
 
 <br>
 
