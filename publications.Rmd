@@ -1,6 +1,7 @@
 ---
 title: "Publications"
-
+bibliography: biblio_lqgm.bib
+csl: european-journal-of-operational-research.csl
 ---
 
 
@@ -11,7 +12,10 @@ title: "Publications"
 
 ## 2022
 
-<br>
+<!-- --- -->
+<!-- nocite: '@*' -->
+<!-- --- -->
+
 
 ## 2021
 

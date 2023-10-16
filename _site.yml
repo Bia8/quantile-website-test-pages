@@ -19,3 +19,5 @@ output:
     highlight: kate
 #    include:
 #      after_body: _footer.html
+bibliography: biblio_lqgm.bib
+csl: european-journal-of-operational-research.csl
