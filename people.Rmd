@@ -12,4 +12,5 @@ title: "People"
 - [Beatrice Foroni](https://beatricefor.github.io/quantile-website-test-pages/foroni.html)
 
 ## PhD Students
-
+- Maria Saiz
+- Mila Andreani

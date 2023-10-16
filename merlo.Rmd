@@ -1,0 +1,9 @@
+---
+title: "Luca Merlo"
+output: html_document
+---
+
+**Researcher in Statistics at the European University of Rome (Italy), Ph.D. in Methodological Statistics.**
+
+Research fields: <br>
+His research interests include quantile regression, latent variable models, finite mixture models with applications to longitudinal, time series and correlated data. He actively collaborates with national and international institutions, including the Harvard T.H. Chan School of Public Health (US), the University of Southampton (United Kingdom) and the University of Pisa (Italy)
