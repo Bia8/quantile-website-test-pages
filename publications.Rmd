@@ -1,22 +1,22 @@
 ---
 title: "Publications"
 bibliography: biblio_lqgm.bib
-csl: european-journal-of-operational-research.csl
+csl: acta-applicandae-mathematicae.csl
 ---
 
 
 
-## 2023
+<!-- ## 2023 -->
 
--  "Unified unconditional regression for multivariate quantiles, M-quantiles and expectiles" (with L.       Merlo, N. Salvati, N. Tzavidis) forthcoming  **Journal of the American Statistical Society**
+<!-- -  "Unified unconditional regression for multivariate quantiles, M-quantiles and expectiles" (with L.       Merlo, N. Salvati, N. Tzavidis) forthcoming  **Journal of the American Statistical Society** -->
 
-## 2022
+<!-- ## 2022 -->
 
-<!-- --- -->
-<!-- nocite: '@*' -->
-<!-- --- -->
+---
+nocite: '@*'
+---
 
 
-## 2021
+<!-- ## 2021 -->
 
-<br>
+<!-- <br> -->
