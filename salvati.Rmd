@@ -38,7 +38,7 @@ knitr::include_graphics("images/salvati.jpg")
 <!-- <br> -->
 <!-- `r icons::fontawesome("blog")` [website](https://people.unipi.it/nicola_salvati/) -->
 <br>
-`r icons::fontawesome("at")` [nicola.salvati@unipi.it](nicola.salvati@unipi.it)
+`r icons::fontawesome("at")` [nicola.salvati@unipi.it](mailto:nicola.salvati@unipi.it)
 :::
 
 ::::
