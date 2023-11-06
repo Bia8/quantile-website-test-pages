@@ -1,9 +1,22 @@
 ---
 title: "Nicola Salvati"
-
 ---
 
-**Associate Professor in Statistics at the University of Pisa, Ph.D. in Applied Statistics.**
+```{css, echo=FALSE}
+.myimg {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+```
 
-Research fields: <br>
-His research interests include survey sampling, model-assisted and design-based inference, robust regression, quantile and M-quantile regression, multilevel models, geographically weighted regression, spatial statistics, applications of small area models in poverty mapping, new technologies in survey methodology (computer assisted telephone surveys, electronic data interchange, internet surveys). His work the in the last five years has been published by Journal of Royal Statistical Society Series A and B, Statistics in Medicine, TEST, Statistical Methods in Medical Research.
+
+
+```{r img-with-knitr, echo=FALSE, fig.align='left', out.extra='class="myimg"'}
+knitr::include_graphics("images/salvati.jpg")
+```  
+**Associate Professor in Statistics at the University of Pisa, Ph.D. in Applied Statistics.**
+  
+Research fields: <br> His research interests include survey sampling, model-assisted and design-based inference, robust regression, quantile and M-quantile regression, multilevel models, geographically weighted regression, spatial statistics, applications of small area models in poverty mapping, new technologies in survey methodology (computer assisted telephone surveys, electronic data interchange, internet surveys). His work the in the last five years has been published by Journal of Royal Statistical Society Series A and B, Statistics in Medicine, TEST, Statistical Methods in Medical Research.
+
