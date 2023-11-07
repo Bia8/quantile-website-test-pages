@@ -1,5 +1,10 @@
 ---
 title: "Research"
+output:
+  html_document:
+    fig_width: 1
+    include:
+      before_body: logo.html
 
 ---
 

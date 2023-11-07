@@ -30,6 +30,8 @@
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -46,6 +48,7 @@
 
 
 
+<link rel="stylesheet" href="style.css" type="text/css" />
 
 
 
@@ -231,19 +234,39 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="research.html">Research</a>
+  <a href="research.html">
+    <span class="fa fa-book"></span>
+     
+    Research
+  </a>
 </li>
 <li>
-  <a href="people.html">People</a>
+  <a href="people.html">
+    <span class="fa fa-person"></span>
+     
+    People
+  </a>
 </li>
 <li>
-  <a href="events.html">Events</a>
+  <a href="events.html">
+    <span class="fa fa-calendar"></span>
+     
+    Events
+  </a>
 </li>
 <li>
-  <a href="publications.html">Publications</a>
+  <a href="publications.html">
+    <span class="fa fa-bookmark"></span>
+     
+    Publications
+  </a>
 </li>
 <li>
-  <a href="contacts.html">Contact form</a>
+  <a href="contacts.html">
+    <span class="fa fa-message"></span>
+     
+    Contact form
+  </a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -252,6 +275,15 @@ $(document).ready(function () {
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
 </div><!--/.navbar -->
+<script type="text/javascript">
+$(function() {
+$('.navbar-left').before($('.logo'));
+})
+</script>
+
+<div class="logo pull-right">
+<img src="images/logo.png" alt="logo" width="100" style="margin: 5px;">
+</div>
 
 <div id="header">
 

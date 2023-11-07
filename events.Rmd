@@ -1,6 +1,10 @@
 ---
 title: "Events"
-
+output:
+  html_document:
+    fig_width: 1
+    include:
+      before_body: logo.html
 ---
 
 List of all events with links
