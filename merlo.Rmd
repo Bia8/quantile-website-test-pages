@@ -34,7 +34,6 @@ knitr::include_graphics("images/merlo.jpeg")
 # Luca Merlo
 
 **Researcher in Statistics at the European University of Rome (Italy), Ph.D. in Methodological Statistics.**
-
 <br>
 `r icons::fontawesome("at")` [luca.merlo@unier.it](mailto:luca.merlo@unier.it)
 :::

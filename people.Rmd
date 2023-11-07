@@ -20,13 +20,13 @@ text-align: center
 ```
 
 ```{css, echo=FALSE}
-h1, h2 {
+h1, h2, h3 {
   text-align: center;
 }
 ```
 # Meat the Team
 
-## Faculty Members
+### Faculty Members
 
 <center>
 :::::::::::::: {class='row'}
@@ -62,7 +62,7 @@ knitr::include_graphics("images/merlo.jpeg")
 <!-- - [Nicola Salvati](https://beatricefor.github.io/quantile-website-test-pages/salvati.html) -->
 <!-- - [Luca Merlo](https://beatricefor.github.io/quantile-website-test-pages/merlo.html) -->
 
-## Post-docs
+### Post-docs
 <center>
 ```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Beatrice Foroni](https://beatricefor.github.io/quantile-website-test-pages/foroni.html)"}
 knitr::include_graphics("images/foroni.jpg")
@@ -70,7 +70,7 @@ knitr::include_graphics("images/foroni.jpg")
 </center>
 <!-- - [Beatrice Foroni](https://beatricefor.github.io/quantile-website-test-pages/foroni.html) -->
 
-## PhD Students
+### PhD Students
 - Maria Saiz
 - Mila Andreani
 
