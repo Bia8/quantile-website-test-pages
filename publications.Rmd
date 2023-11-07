@@ -1,9 +1,9 @@
 ---
 title: "Publications"
 bibliography: biblio_lqgm.bib
-csl: acta-applicandae-mathematicae.csl
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/american-chemical-society.csl
+nocite: '@*'
 ---
-
 
 
 <!-- ## 2023 -->
@@ -12,11 +12,18 @@ csl: acta-applicandae-mathematicae.csl
 
 <!-- ## 2022 -->
 
----
-nocite: '@*'
----
+<div id="refs"></div>
+
 
 
 <!-- ## 2021 -->
 
 <!-- <br> -->
+
+<br>
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```     
+
+Back to top [`r fa("arrow-up", fill = "steelblue")`](#)
