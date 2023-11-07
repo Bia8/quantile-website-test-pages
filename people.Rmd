@@ -71,6 +71,26 @@ knitr::include_graphics("images/foroni.jpg")
 <!-- - [Beatrice Foroni](https://beatricefor.github.io/quantile-website-test-pages/foroni.html) -->
 
 ### PhD Students
-- Maria Saiz
-- Mila Andreani
+<center>
+:::::::::::::: {class='row'}
+::: {class='col-sm-6'}
+
+```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Mila Andreani](https://beatricefor.github.io/quantile-website-test-pages/andreani.html)"}
+knitr::include_graphics("images/andreani.jpeg")
+``` 
+:::
+
+::: {class='col-sm-6'}
+
+```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Maria Saiz](https://beatricefor.github.io/quantile-website-test-pages/saiz.html)"}
+knitr::include_graphics("images/saiz.jpeg")
+``` 
+
+:::
+::::::::::::::
+</center>
+
+
+<!-- - Maria Saiz -->
+<!-- - Mila Andreani -->
 
