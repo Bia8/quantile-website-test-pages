@@ -36,9 +36,10 @@ knitr::include_graphics("images/petrella.jpeg")
 
 **Full Professor in Statistics at Sapienza University of Rome**
 <!-- <br> -->
-<!-- `r icons::fontawesome("blog")` [website](https://people.unipi.it/nicola_salvati/) -->
 <br>
-`r icons::fontawesome("at")` [lea.petrella@uniroma1.it](mailto:lea.petrella@uniroma1.it)
+`r icons::fontawesome("telegram-plane")` [Website page](https://web.uniroma1.it/memotef/users/petrella-lea) 
+
+<!--`r icons::fontawesome("at")` [lea.petrella@uniroma1.it](mailto:lea.petrella@uniroma1.it) -->
 :::
 
 ::::

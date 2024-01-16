@@ -36,9 +36,10 @@ knitr::include_graphics("images/andreani.jpeg")
 
 **Data Science PhD Student at Scuola Normale Superiore**
 <!-- <br> -->
-<!-- `r icons::fontawesome("blog")` [website](https://people.unipi.it/nicola_salvati/) -->
 <br>
-`r icons::fontawesome("at")` [mila.andreani@sns.it](mailto:mila.andreani@sns.it)
+`r icons::fontawesome("telegram-plane")` [Website page](https://www.sns.it/it/persona/mila-andreani) 
+
+<!--`r icons::fontawesome("at")` [mila.andreani@sns.it](mailto:mila.andreani@sns.it) -->
 :::
 
 ::::
