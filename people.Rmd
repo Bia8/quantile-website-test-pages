@@ -40,7 +40,7 @@ knitr::include_graphics("images/petrella.jpeg")
 ::: {class='col-sm-4'}
 
 ```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Nicola Salvati](https://beatricefor.github.io/quantile-website-test-pages/salvati.html)"}
-knitr::include_graphics("images/salvati.jpg")
+knitr::include_graphics("images/salvati2.jpeg")
 ``` 
 
 :::
