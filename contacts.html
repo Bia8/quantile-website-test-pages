@@ -304,10 +304,18 @@ $(document).ready(function () {
       <label for="exampleTextarea" class="form-label mt-4">Text message</label>
       <textarea class="form-control" name="message" id="exampleTextarea" rows="3"></textarea>
     </div>
+    <div class="form-group">
+      <label for="formFile" class="form-label mt-4">File input</label>
+      <input class="form-control" type="file" id="formFile">
+    </div>
+    <! -- Step 1: Add this line -->
+    <div class="h-captcha" data-captcha="true"></div>
     <button type="submit" class="btn btn-secondary">Submit</button>
   </fieldset>
 </form>
 
+<! -- Step 2: Add the script -->
+<script src="https://web3forms.com/client/script.js" async defer></script>
 
 
 
